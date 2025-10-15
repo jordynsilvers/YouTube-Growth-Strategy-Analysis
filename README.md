@@ -27,8 +27,8 @@ Instead of building a prediction model, the goal is to define key performance in
 
 The analysis identified key strategic correlations critical for investment decisions:
 
-* **Category Performance:** Identified the top 10 categories based on a combination of Median Subscribers and Content Efficiency (Avg. Views per Video), revealing which niches, such as **[Insert your top category here, e.g., Music or Entertainment]**, have the highest barrier to entry.
-* **Content Efficiency:** Channels demonstrated a **[Insert the correlation result between age and views per video, e.g., strong positive]** correlation between longevity (age) and high average views per video. This suggests that sustained content quality improves with time and experience.
+* **Category Performance:** Identified the top 10 categories based on a combination of Median Subscribers and Content Efficiency (Avg. Views per Video), revealing which niches, such as **Music**, have the highest barrier to entry.
+* **Content Efficiency:** Channels demonstrated a **weak positive (0.0866)** correlation between longevity (age) and high average views per video. This suggests that sustained content quality improves with time and experience, though the relationship is not very strong.
 * **Strategic Gaps:** The analysis revealed categories with high subscriber counts but low content efficiency, indicating potential business opportunities for content partners to optimize video output and viewer engagement.
 
 ---
