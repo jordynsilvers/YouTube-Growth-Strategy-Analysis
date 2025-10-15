@@ -23,7 +23,7 @@ Instead of building a prediction model, the goal is to define key performance in
 
 ---
 
-## Key Findings for Business Strategy
+## Analytical Insights
 
 The analysis identified key strategic correlations critical for investment decisions:
 
