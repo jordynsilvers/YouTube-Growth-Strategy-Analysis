@@ -11,8 +11,7 @@ Strategic Analysis: Identify the most successful content categories based on med
 
 Correlation Mapping: Quantify the relationship between channel age and content performance to inform long-term investment strategies.
 
-Key Findings for Business Strategy
-The analysis identified key strategic correlations critical for investment decisions:
+Key Findings for Business Strategy- The analysis identified key strategic correlations critical for investment decisions:
 
 Category Performance: Identified the top 10 categories based on a combination of Median Subscribers and Content Efficiency (Avg. Views per Video), revealing which niches, such as [Insert your top category here, e.g., Music or Entertainment], have the highest barrier to entry.
 
