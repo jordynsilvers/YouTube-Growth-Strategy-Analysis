@@ -21,21 +21,10 @@ Content Efficiency: Channels demonstrated a Insertthecorrelationresultbetweenage
 Strategic Gaps: The analysis revealed categories with high subscriber counts but low content efficiency, indicating potential business opportunities for content partners to optimize video output and viewer engagement.
 
 Technology Stack
-Tool
-
-Purpose
-
-Python
-
-Primary programming language.
-
-Pandas
-
-Essential library for all data manipulation, cleaning, KPI creation, and strategic grouping (groupby).
-
-Jupyter/Colab
-
-Environment used for iterative development and final presentation of the analysis (Notebook file: Untitled1.ipynb).
+Tool: Purpose
+Python: Primary programming language.
+Pandas: Essential library for all data manipulation, cleaning, KPI creation, and strategic grouping (groupby).
+Colab: Environment used for iterative development and final presentation of the analysis (Notebook file: Untitled1.ipynb).
 
 Repository Structure
 Untitled1.ipynb: The main Jupyter Notebook containing all data cleaning, feature engineering (KPI creation), strategic analysis, and reporting code.
