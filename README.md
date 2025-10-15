@@ -1,5 +1,4 @@
 YouTube Channel Growth Strategy Analysis 
-Description: An in-depth Business Analytics project utilizing custom KPIs and correlation analysis to identify high-potential content niches and strategic growth patterns among the world's top YouTube channels.
 
 This project, developed using Python and Pandas, focuses on transforming raw data from the world's 1,000 most-subscribed YouTube channels into actionable Business Analytics insights.
 
